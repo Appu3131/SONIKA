@@ -1,7 +1,7 @@
 
 class Animal:
     def speak(self):
-        print("Animal speaks.")
+        print("anis.")
 
 
 class Vehicle:
